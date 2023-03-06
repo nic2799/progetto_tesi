@@ -1,0 +1,81 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://3a309870-ce4d-4e31-b7ed-44e805ad00b0",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://e3845ad1-5796-4188-bb8f-f79f5228709a",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a75138e2-5cc9-4e0a-bb1f-32f43c66cca2",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2410,
+					"width": 5284,
+					"images": [  
+						{
+								
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://33b0910f-1695-4865-af57-b70c97f3ce58",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 2410,
+								"width": 5284
+							},
+							"on": "http://a75138e2-5cc9-4e0a-bb1f-32f43c66cca2"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd"><ead>
+	<eadheader>
+		<eadid />
+		<filedesc>
+			<titlestmt>
+				<titleproper />
+			</titlestmt>
+			<editionstmt>
+				<edition />
+			</editionstmt>
+			<publicationstmt>
+				<publisher />
+				<address>
+					<addressline />
+				</address>
+			</publicationstmt>
+			<seriesstmt>
+				<titleproper>Diogenes of Sinope, Brutus and Hippocrates, Letters (translated by Francesco d'Arezzo and Ranuccio d'Arezzo)</titleproper>
+			</seriesstmt>
+		</filedesc>
+		<profiledesc>
+			<langusage>
+				<language>Latin</language>
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" relatedencoding="ISAD(G)v2">
+		<did>
+			<head />
+			<abstract />
+		</did>
+		<dsc type="combined">
+			<c level="item">
+				<did>
+					<unittitle>Diogenes of Sinope, Brutus and Hippocrates, Letters (translated by Francesco d'Arezzo and Ranuccio d'Arezzo)</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/bge/bge-cl0269/bge-cl0269_e001.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Diogenes of Sinope, Brutus and Hippocrates, Letters (translated by Francesco d'Arezzo and Ranuccio d'Arezzo)</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/bge/bge-cl0269/bge-cl0269_e005.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Diogenes of Sinope, Brutus and Hippocrates, Letters (translated by Francesco d'Arezzo and Ranuccio d'Arezzo)</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/bge/bge-cl0269/bge-cl0269_000a.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Diogenes of Sinope, Brutus and Hippocrates, Letters (translated by Francesco d'Arezzo and Ranuccio d'Arezzo)</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/bge/bge-cl0269/bge-cl0269_000b.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Diogenes of Sinope, Brutus and Hippocrates, Letters (translated by Francesco d'Arezzo and Ranuccio d'Arezzo)</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/bge/bge-cl0269/bge-cl0269_000c.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

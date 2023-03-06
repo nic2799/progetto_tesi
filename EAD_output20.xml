@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd"><ead>
+	<eadheader>
+		<eadid />
+		<filedesc>
+			<titlestmt>
+				<titleproper />
+			</titlestmt>
+			<editionstmt>
+				<edition />
+			</editionstmt>
+			<publicationstmt>
+				<publisher />
+				<address>
+					<addressline />
+				</address>
+			</publicationstmt>
+			<seriesstmt>
+				<titleproper />
+			</seriesstmt>
+		</filedesc>
+		<profiledesc />
+	</eadheader>
+	<archdesc level="collection" relatedencoding="ISAD(G)v2">
+		<did>
+			<head />
+			<abstract />
+		</did>
+		<dsc type="combined">
+			<c level="item">
+				<did>
+					<unittitle>Book of hours from Paris</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/cea/cea-0008/cea-0008_e001.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Book of hours from Paris</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/cea/cea-0008/cea-0008_e005.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Book of hours from Paris</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/cea/cea-0008/cea-0008_000a.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Book of hours from Paris</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/cea/cea-0008/cea-0008_000b.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+			<c level="item">
+				<did>
+					<unittitle>Book of hours from Paris</unittitle>
+					<dao linktype="simple" href="https://www.e-codices.unifr.ch/loris/cea/cea-0008/cea-0008_000c.jp2/full/full/0/default/jpg" role="master" actuate="onrequest" show="embed" />
+				</did>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

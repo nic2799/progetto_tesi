@@ -1,0 +1,15 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:ore="http://www.openarchives.org/ore/terms/">
+  <edm:ProvidedCHO rdf:about="https://demo.accesstomemory.org/emily-stowe-and-augusta-stowe-gullen-collection">
+    <dc:Title>Emily Stowe and Augusta Stowe Gullen collection</dc:Title>
+    <dc:Location>
+</dc:Location>
+    <dc:Date>2011-11-22</dc:Date>
+    <dc:Format>http://images.ourontario.ca/Partners/WLU/52863.jpg</dc:Format>
+  </edm:ProvidedCHO>
+  <ore:aggregation rdf:about="https://demo.accesstomemory.org/emily-stowe-and-augusta-stowe-gullen-collection">
+    <edm:aggregatedCHO rdf:about="https://demo.accesstomemory.org/emily-stowe-and-augusta-stowe-gullen-collection"/>
+    <edm:isShownBy rdf:about="http://images.ourontario.ca/Partners/WLU/52863.jpg"/>
+  </ore:aggregation>
+  <edm:WebResource rdf:about="http://images.ourontario.ca/Partners/WLU/52863.jpg"/>
+  <ore:proxy/>
+</rdf:RDF>
